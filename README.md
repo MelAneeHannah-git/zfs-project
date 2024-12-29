@@ -18,3 +18,7 @@ Please read CONTRIBUTING.md for details on our code of conduct and the process f
 - rpm/: RPM build files
   - SPECS/: RPM spec files
   - SOURCES/: Custom patches and scripts for RPM builds
+
+## Development Environment
+This project uses an Incus container for development. The script for setting up this container can be found in the [scripts repository](https://github.com/YourUsername/scripts-repo) as `create-incus-container.sh`.
+
