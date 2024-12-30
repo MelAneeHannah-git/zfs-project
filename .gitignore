@@ -18,6 +18,3 @@ Thumbs.db
 *.o
 *.so
 *.dylib
-rpm/BUILD/*
-rpm/RPMS/*
-rpm/SRPMS/*
